@@ -35,10 +35,19 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.JUnitAssertionProje2">
+  <component name="RunManager" selected="JUnit.ActionClasses">
     <configuration name="JUnitAssertıonProje1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JUnitAssertıonProje1" />
       <module name="SeleniumOrnekProjeler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActionClasses" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumOrnekProjeler" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ActionClasses" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -73,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ActionClasses" />
         <item itemvalue="JUnit.JUnitAssertionProje2" />
         <item itemvalue="JUnit.JUnitAssertionProje2.test01" />
         <item itemvalue="JUnit.JUnitAssertıonProje1" />
