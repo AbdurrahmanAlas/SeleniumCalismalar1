@@ -37,6 +37,7 @@ public class JUnitAssertionProje2 {
     @Test
     public  void test01(){
 
+        System.out.println("github calısıyoruz");
         //3. Verify that home page is visible successfully
         WebElement homepage=driver.findElement(By.xpath("//i[@class=\"fa fa-home\"]"));
 

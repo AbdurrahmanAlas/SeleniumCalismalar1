@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="fba6a92f-d50d-4352-829c-77b93377bb43" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumProje1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumProje1.java" afterDir="false" />
+>>>>>>> Abdurrahman
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
