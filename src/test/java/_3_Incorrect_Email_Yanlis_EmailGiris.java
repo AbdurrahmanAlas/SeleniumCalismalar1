@@ -1,11 +1,10 @@
-import net.bytebuddy.asm.Advice;
 import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import utilities.TestBase;
 
-public class Incorrect_Email_Yanlis_EmailGiris extends TestBase {
+public class _3_Incorrect_Email_Yanlis_EmailGiris extends TestBase {
 /*
 Test Case 3: Login User with incorrect email and password
 1. Launch browser

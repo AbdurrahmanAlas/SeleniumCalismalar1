@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import utilities.TestBase;
 
-public class Login_Giris_Yapma extends TestBase {
+public class _2_Login_Giris_Yapma extends TestBase {
 
 
     /*1. Launch browser

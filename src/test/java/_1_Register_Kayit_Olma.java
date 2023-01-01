@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import utilities.TestBase;
 
-public class Register_Kayit_Olma extends TestBase {
+public class _1_Register_Kayit_Olma extends TestBase {
 
 
     @Test
