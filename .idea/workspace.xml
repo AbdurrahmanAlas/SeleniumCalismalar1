@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fba6a92f-d50d-4352-829c-77b93377bb43" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumProje1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumProje1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.SeleniumProje1">
+  <component name="RunManager" selected="JUnit.SeleniumProje2">
     <configuration name="ActionClasses" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SeleniumOrnekProjeler" />
       <option name="PACKAGE_NAME" value="" />
@@ -56,16 +54,6 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="JUnitAssertionProje2" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JUnitAssertionProje2.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumOrnekProjeler" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="JUnitAssertionProje2" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -89,6 +77,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SeleniumProje2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumOrnekProjeler" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumProje2" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="SeleniumOrnekProjeler" />
       <method v="2">
@@ -104,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SeleniumProje2" />
         <item itemvalue="JUnit.SeleniumProje1" />
         <item itemvalue="JUnit.SeleniumProje1.test01" />
         <item itemvalue="JUnit.ActionClasses" />
         <item itemvalue="JUnit.JUnitAssertionProje2" />
-        <item itemvalue="JUnit.JUnitAssertionProje2.test01" />
       </list>
     </recent_temporary>
   </component>
