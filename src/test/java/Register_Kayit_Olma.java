@@ -1,5 +1,3 @@
-import com.beust.ah.A;
-import com.github.javafaker.Faker;
 import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.By;
@@ -8,9 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import utilities.TestBase;
 
-import javax.security.auth.kerberos.KerberosKey;
-
-public class SeleniumProje1 extends TestBase {
+public class Register_Kayit_Olma extends TestBase {
 
 
     @Test

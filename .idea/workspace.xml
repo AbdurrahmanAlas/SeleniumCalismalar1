@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fba6a92f-d50d-4352-829c-77b93377bb43" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumProje1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Register_Kayit_Olma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumProje2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Login_Giris_Yapma.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.SeleniumProje2">
+  <component name="RunManager" selected="JUnit.Incorrect_Email_Yanlis_EmailGiris">
     <configuration name="ActionClasses" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SeleniumOrnekProjeler" />
       <option name="PACKAGE_NAME" value="" />
@@ -49,39 +50,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JUnitAssertionProje2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Incorrect_Email_Yanlis_EmailGiris" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SeleniumOrnekProjeler" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="JUnitAssertionProje2" />
+      <option name="MAIN_CLASS_NAME" value="Incorrect_Email_Yanlis_EmailGiris" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeleniumProje1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Login_Giris_Yapma" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SeleniumOrnekProjeler" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumProje1" />
+      <option name="MAIN_CLASS_NAME" value="Login_Giris_Yapma" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeleniumProje1.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Register_Kayit_Olma" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SeleniumOrnekProjeler" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumProje1" />
+      <option name="MAIN_CLASS_NAME" value="Register_Kayit_Olma" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Register_Kayit_Olma.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumOrnekProjeler" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Register_Kayit_Olma" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SeleniumProje2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumOrnekProjeler" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumProje2" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -101,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SeleniumProje2" />
-        <item itemvalue="JUnit.SeleniumProje1" />
-        <item itemvalue="JUnit.SeleniumProje1.test01" />
+        <item itemvalue="JUnit.Incorrect_Email_Yanlis_EmailGiris" />
+        <item itemvalue="JUnit.Login_Giris_Yapma" />
+        <item itemvalue="JUnit.Register_Kayit_Olma" />
+        <item itemvalue="JUnit.Register_Kayit_Olma.test01" />
         <item itemvalue="JUnit.ActionClasses" />
-        <item itemvalue="JUnit.JUnitAssertionProje2" />
       </list>
     </recent_temporary>
   </component>
